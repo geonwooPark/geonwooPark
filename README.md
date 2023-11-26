@@ -2,7 +2,7 @@
 
 <h3>안녕하세요 🙂 비전공자 출신으로, 웹 개발의 매력에 빠져 새로운 도전에 나서고 있는 신입 프론트엔드 개발자입니다.</h3>
 
-- 🏠 블로그: [방문하기](https://myblog-eight-beta.vercel.app/)
+- 🏠 블로그: [방문하기](https://ventileco-blog.vercel.app/)
 - 📫 E-Mail : white0581@naver.com
 
 ## <h3>👀 아래의 기술들에 관심이 있어요!</h3>
