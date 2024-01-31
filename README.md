@@ -1,7 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FgeonwooPark%2FgeonwooPark&count_bg=%23407ECB&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
-<h3>안녕하세요 🙂,  웹 개발의 매력에 빠져 새로운 도전에 나서고 있는 신입 프론트엔드 개발자입니다.</h3>
-
 - 🏠 블로그: [방문하기](https://ventileco-blog.vercel.app/)
 - 📝 스터디: [방문하기](https://ventileco.notion.site/d2cb0536aa2d41c2b4e88acb4af86fa2?pvs=4)
 - 📫 E-Mail : white0581@naver.com
